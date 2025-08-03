@@ -1,7 +1,7 @@
 <script lang="ts">
     import {Splide, SplideSlide, SplideTrack} from '@splidejs/svelte-splide';
     import {Button} from 'bits-ui';
-    import '@splidejs/svelte-splide/css';
+    // import '@splidejs/svelte-splide/css';
     import '@splidejs/svelte-splide/css/core';
     import image1 from '$lib/assets/wallhaven-m9kdw9.png';
     import image2 from '$lib/assets/wallhaven-zyr66w.jpg'
